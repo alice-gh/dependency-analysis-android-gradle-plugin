@@ -30,3 +30,4 @@ It's an attempt to provide some high-level documentation additional reference.
 // advice.
 
 image::https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/blob/master/flowchart/flowchart.png[Flowchart]
+
