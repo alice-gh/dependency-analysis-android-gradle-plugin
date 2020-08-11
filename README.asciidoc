@@ -28,6 +28,6 @@ This flowchart was built with https://github.com/mermaid-js/mermaid[Mermaid] and
 It's an attempt to provide some high-level documentation additional reference.
 // Please see https://github.com/mermaidjs/mermaid-live-editor/issues/23#issuecomment-520662873 for
 // advice.
-
+ 
 image::https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/blob/master/flowchart/flowchart.png[Flowchart]
 
