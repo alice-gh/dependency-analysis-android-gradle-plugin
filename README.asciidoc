@@ -7,7 +7,7 @@ For detailed instructions, see https://github.com/autonomousapps/dependency-anal
 
 The simplest approach is to add the following to your root build.gradle:
 
-.root build.gradle
+.root build.gradle 
 [source,groovy]
 ----
 plugins {
